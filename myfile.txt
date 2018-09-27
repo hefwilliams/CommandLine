@@ -1,2 +1,5 @@
 this is myfile.txt
 which has now been updated
+
+#tip get-command -verb set
+#added tips
